@@ -1,0 +1,4 @@
+source;share/optimus_v1_description/local_setup.bash
+source;share/optimus_v1_description/local_setup.dsv
+source;share/optimus_v1_description/local_setup.sh
+source;share/optimus_v1_description/local_setup.zsh

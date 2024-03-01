@@ -1,0 +1,9 @@
+/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup/CMakeFiles/uninstall.dir
+/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup/CMakeFiles/optimus_v1_bringup_uninstall.dir
+/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup/CMakeFiles/test.dir
+/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup/CMakeFiles/edit_cache.dir
+/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup/CMakeFiles/rebuild_cache.dir
+/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup/CMakeFiles/list_install_components.dir
+/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup/CMakeFiles/install.dir
+/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup/CMakeFiles/install/local.dir
+/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup/CMakeFiles/install/strip.dir

@@ -1,0 +1,25 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description//meshes/dual_sonar_v1.0.stl
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description//urdf/common_properties.xacro
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description//urdf/mobile_base.xacro
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description//urdf/mobile_base_gazebo.xacro
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description//urdf/optimus_v1.urdf.xacro
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description//launch/display.launch.py
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description//launch/display.launch.xml
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description//rviz/optimus_v1.rviz
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/ament_index/resource_index/package_run_dependencies/optimus_v1_description
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/ament_index/resource_index/parent_prefix_path/optimus_v1_description
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description/environment/path.sh
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description/environment/path.dsv
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description/local_setup.bash
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description/local_setup.sh
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description/local_setup.zsh
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description/local_setup.dsv
+-- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description/package.dsv
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/ament_index/resource_index/packages/optimus_v1_description
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description/cmake/optimus_v1_descriptionConfig.cmake
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description/cmake/optimus_v1_descriptionConfig-version.cmake
+-- Up-to-date symlink: /home/gary/bot_one/ros2_ws/install/optimus_v1_description/share/optimus_v1_description/package.xml

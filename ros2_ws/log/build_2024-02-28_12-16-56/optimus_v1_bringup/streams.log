@@ -1,0 +1,42 @@
+[0.241s] Invoking command in '/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gary/first_ws/install/turtlesim_catch_them_all:/home/gary/first_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/gary/bot_one/ros2_ws/src/optimus_v1_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gary/bot_one/ros2_ws/install/optimus_v1_bringup
+[0.479s] -- The C compiler identification is GNU 11.4.0
+[1.425s] -- The CXX compiler identification is GNU 11.4.0
+[2.175s] -- Detecting C compiler ABI info
+[2.418s] -- Detecting C compiler ABI info - done
+[2.429s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.430s] -- Detecting C compile features
+[2.430s] -- Detecting C compile features - done
+[2.433s] -- Detecting CXX compiler ABI info
+[2.680s] -- Detecting CXX compiler ABI info - done
+[2.689s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.689s] -- Detecting CXX compile features
+[2.690s] -- Detecting CXX compile features - done
+[2.694s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.888s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.964s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.077s] -- Configuring done
+[3.081s] -- Generating done
+[3.082s] -- Build files have been written to: /home/gary/bot_one/ros2_ws/build/optimus_v1_bringup
+[3.087s] Invoked command in '/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gary/first_ws/install/turtlesim_catch_them_all:/home/gary/first_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/gary/bot_one/ros2_ws/src/optimus_v1_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gary/bot_one/ros2_ws/install/optimus_v1_bringup
+[3.091s] Invoking command in '/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gary/first_ws/install/turtlesim_catch_them_all:/home/gary/first_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/gary/bot_one/ros2_ws/build/optimus_v1_bringup -- -j8 -l8
+[3.134s] Invoked command in '/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gary/first_ws/install/turtlesim_catch_them_all:/home/gary/first_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/gary/bot_one/ros2_ws/build/optimus_v1_bringup -- -j8 -l8
+[3.166s] Invoking command in '/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gary/first_ws/install/turtlesim_catch_them_all:/home/gary/first_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/gary/bot_one/ros2_ws/build/optimus_v1_bringup
+[3.176s] -- Install configuration: ""
+[3.177s] -- Execute custom install script
+[3.178s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/launch/optimus_v1.launch.xml
+[3.188s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/ament_index/resource_index/package_run_dependencies/optimus_v1_bringup
+[3.198s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/ament_index/resource_index/parent_prefix_path/optimus_v1_bringup
+[3.208s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/environment/ament_prefix_path.sh
+[3.218s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/environment/ament_prefix_path.dsv
+[3.229s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/environment/path.sh
+[3.242s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/environment/path.dsv
+[3.253s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/local_setup.bash
+[3.264s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/local_setup.sh
+[3.274s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/local_setup.zsh
+[3.284s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/local_setup.dsv
+[3.294s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/package.dsv
+[3.304s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/ament_index/resource_index/packages/optimus_v1_bringup
+[3.316s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/cmake/optimus_v1_bringupConfig.cmake
+[3.326s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/cmake/optimus_v1_bringupConfig-version.cmake
+[3.335s] -- Symlinking: /home/gary/bot_one/ros2_ws/install/optimus_v1_bringup/share/optimus_v1_bringup/package.xml
+[3.349s] Invoked command in '/home/gary/bot_one/ros2_ws/build/optimus_v1_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gary/first_ws/install/turtlesim_catch_them_all:/home/gary/first_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/gary/bot_one/ros2_ws/build/optimus_v1_bringup

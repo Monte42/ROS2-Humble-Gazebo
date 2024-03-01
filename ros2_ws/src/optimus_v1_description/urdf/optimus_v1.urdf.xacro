@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<robot name="optimus" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+    <!-- - - - - - - -->
+    <!-- import URDF -->
+    <!-- - - - - - - -->
+    <xacro:include filename="common_properties.xacro" />
+    <xacro:include filename="mobile_base.xacro" />
+    <xacro:include filename="mobile_base_gazebo.xacro" /> <!-- Needs to be after main mobile base -->
+    
+    <xacro:include filename="camera.xacro" />
+    
+
+
+</robot>
